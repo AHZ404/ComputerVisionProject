@@ -13,15 +13,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Jupyter notebooks
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-*.ipynb
-!*.ipynb  # Use this if you DO want to track notebooks
-# To ignore notebooks but keep checkpoints:
-# *.ipynb
-# !.ipynb_checkpoints/
-
 # Python cache files
 __pycache__/
 *.py[cod]
